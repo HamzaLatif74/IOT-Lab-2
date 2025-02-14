@@ -19,3 +19,7 @@ while True:
     neo[0] = (0, 0, 255)  # Set the pixel to red
     neo.write()
     time.sleep(0.1)
+    
+    neo[0] = (0, 0, 255)  # Set the pixel to red
+    neo.write()
+    time.sleep(0.1)
